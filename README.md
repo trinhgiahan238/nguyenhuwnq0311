@@ -13,9 +13,10 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 ## Featured Projects 🌟
 - [Project 1](https://github.com/nguyenhuwnq0311/leehairsalon_q1): Hair salon website
 - [Project 2](https://github.com/nguyenhuwnq0311/project2): Applying Java language to warehouse management
-- [Project 3]: Supervising network security for the police and government such as Gtel authentication center, Department of Information and Communications of Ca Mau province... and more!
-  
 
+## Specialized project on network security monitoring 📌
+- Supervising network security for the police and government such as Gtel authentication center, Department of Information and Communications of Ca Mau province... and more!
+  
 ##  Get in Touch 📬
 - **Email**: [nguyenhung@example.com](mailto:nguyenhung.gl.2212@gmail.com)
 - **LinkedIn**: [Nguyen Hung](https://www.linkedin.com/in/hungnguyen0311)
