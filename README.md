@@ -8,7 +8,7 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 ## Skills and Tools 🛠️
 - **Programming Languages**: ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![Python](https://img.shields.io/badge/Python-3.8-blue)
 - **Cyber Security**: Network Security, Incident Response, SOC Analyst
-- **Frameworks and Tools**: ![Flask](https://img.shields.io/badge/Flask-1.1.2-black) ![Splunk](https://img.shields.io/badge/Splunk-Enterprise-green)  ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.9-blue) Wireshark - ![Snort](https://img.shields.io/badge/Snort-2.9.18.1-red) Snort - ![Suricata](https://img.shields.io/badge/Suricata-6.0.3-orange) Suricata - ![ELK Stack](https://img.shields.io/badge/ELK_Stack-Latest-blue) ELK Stack - ![Kibana](https://img.shields.io/badge/Kibana-7.13.2-blue) Kibana - ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-7.13.2-orange) ElasticSearch
+- **Frameworks and Tools**: ![Flask](https://img.shields.io/badge/Flask-1.1.2-black) ![Splunk](https://img.shields.io/badge/Splunk-Enterprise-green)  ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.9-blue) ![Snort](https://img.shields.io/badge/Snort-2.9.18.1-red) ![Suricata](https://img.shields.io/badge/Suricata-6.0.3-orange) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-Latest-blue) ![Kibana](https://img.shields.io/badge/Kibana-7.13.2-blue) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-7.13.2-orange)
 
 ## Featured Projects 🌟
 - [Project 1](https://github.com/nguyenhuwnq0311/leehairsalon_q1): Hair salon website
