@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Hung 👋
 
-![Alt text](https://pin.it/6jrWekloY)
+![Alt text](https://i.pinimg.com/originals/01/25/ca/0125ca2b3bc24d36f2f29a0b77acddec.gif)
 [![GitHub followers](https://img.shields.io/github/followers/nguyenhuwnq0311?label=Follow&style=social)](https://github.com/nguyenhuwnq0311)
 
 I'm a Cyber Security specialist with a passion for securing systems and exploring new technologies. 
