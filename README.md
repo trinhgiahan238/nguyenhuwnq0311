@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Hung 👋
 
-![Profile views](https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/420193951_1629156164280773_1269275029856825600_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZRGNr3A2A6MQ7kNvgGeldZG&_nc_ht=scontent.fsgn2-9.fna&oh=00_AYCSti4-Rm72X_S6QROXyJKMdvaNqF6fwSZNrul-1JsxVw&oe=66A1CBAE)
+![Alt text](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif)
 [![GitHub followers](https://img.shields.io/github/followers/nguyenhuwnq0311?label=Follow&style=social)](https://github.com/nguyenhuwnq0311)
 
 I'm a Cyber Security specialist with a passion for securing systems and exploring new technologies. 
@@ -21,6 +21,6 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuwnq0311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuwnq0311&layout=compact&theme=radical)
-![Alt text](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif)
+
 
 
