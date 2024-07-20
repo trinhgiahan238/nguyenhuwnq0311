@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Hung 👋
 
-![Profile views](https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-1/426463330_1643924469470609_8571699943544024756_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=3gupOnCUkdgQ7kNvgHIV7PH&_nc_ht=scontent.fsgn2-11.fna&oh=00_AYCBTyHiCugnrcGTfxm-xDB5YImJGkoYdM_UyMqx16PY1Q&oe=66A1D04B)
+![Profile views](https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/348441643_555054043488961_3666168910653124611_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-MQz2mefuBsQ7kNvgESuwXM&_nc_ht=scontent.fsgn2-6.fna&oh=00_AYC4mtD-gr3X4ZfUt7r9yjCyuf_MmEkVP3fdElAg7u1I6Q&oe=66A1D2E4)
 [![GitHub followers](https://img.shields.io/github/followers/nguyenhuwnq0311?label=Follow&style=social)](https://github.com/nguyenhuwnq0311)
 
 I'm a Cyber Security specialist with a passion for securing systems and exploring new technologies. 
@@ -21,6 +21,6 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuwnq0311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuwnq0311&layout=compact&theme=radical)
-![Alt text]([https://www.pinterest.com/pin/814799757586791610/](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif))
+![Alt text](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif)
 
 
