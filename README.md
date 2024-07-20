@@ -21,8 +21,6 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuwnq0311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuwnq0311&layout=compact&theme=radical)
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuwnq0311&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuwnq0311&layout=compact&theme=radical)
 ![Alt text]([https://www.pinterest.com/pin/814799757586791610/](https://i.pinimg.com/originals/d0/7f/3c/d07f3cc35eb5614262fdf7af09c38b69.gif))
 
 
