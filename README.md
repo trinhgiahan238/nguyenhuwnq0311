@@ -18,9 +18,10 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 - Supervising network security for the police and government such as Gtel authentication center, Department of Information and Communications of Ca Mau province... and more!
   
 ##  Get in Touch 📬
-- **Email**: [nguyenhung@example.com](mailto:nguyenhung.gl.2212@gmail.com)
+- **Email**: [nguyenhung.gl.2212@gmail.com](mailto:nguyenhung.gl.2212@gmail.com)
 - **LinkedIn**: [Nguyen Hung](https://www.linkedin.com/in/hungnguyen0311)
 - **Facebook**: [@nguyenhung](https://www.facebook.com/nguyenhung0311)
+- **Instagram**: [@ng.huwnq](https://www.instagram.com/ng.huwnq__/)
 
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuwnq0311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuwnq0311&layout=compact&theme=radical)
