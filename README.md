@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Hung 👋
 
-![Alt text]([[https://i.pinimg.com/originals/2c/85/cc/2c85ccf9ea65e0fa1441a3ecaaae0c8a.gif]](https://www.pinterest.com/pin/294493263152031047/))
+![Alt text]([(https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)])
 
 I'm a Cyber Security specialist with a passion for securing systems and exploring new technologies. 
 
