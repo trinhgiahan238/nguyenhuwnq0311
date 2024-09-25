@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Hung 👋
 
-![Alt text](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
+![Alt text](https://i.pinimg.com/originals/50/72/3e/50723e33864b1e61112f1774ec8118e6.gif)
 
 I'm a Cyber Security specialist with a passion for securing systems and exploring new technologies. 
 
@@ -12,8 +12,6 @@ I'm a Cyber Security specialist with a passion for securing systems and explorin
 ## Featured Projects 🌟
 - [Project 1](https://github.com/nguyenhuwnq0311/leehairsalon_q1): Hair salon website
 - [Project 2](https://github.com/nguyenhuwnq0311/project2): Applying Java language to warehouse management
-- [Project 3](Now): Currently, I am working as a cybersecurity supervisor for projects related to the state and economic sectors such as: Department of Information and Communications of Ca Mau Province, Ben Tre Provincial Party Committee, CP Group, PNJ, Securities Rong Viet, GSEC
-  
 
 ## Specialized project on network security monitoring 📌
 - Supervising network security for the police and government such as Gtel authentication center, Department of Information and Communications of Ca Mau province... and more!
